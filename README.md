@@ -1,0 +1,2 @@
+# rmds_wk7_compartmental_models
+Reproducible rmarkdown slides for compartmental models presentation
